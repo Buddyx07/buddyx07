@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently working on python <br>👾I'm currently learning  Kotlin, JS , SQL , <br>😀Ask me about myself<br>
+💻I'm currently working on python <br>👾I'm currently learning JS , SQL, <br>😀Ask me about myself<br>
 
 
 ## 🌐 Socials:
